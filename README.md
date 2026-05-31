@@ -1,4 +1,4 @@
-# JavaScript Tutorial - Complete Learning Path
+# Indepth JavaScript Tutorial - Complete Learning Path
 
 > A comprehensive, hyperlinked JavaScript tutorial with 965 topics covering everything from basics to advanced concepts.
 
@@ -11,6 +11,14 @@ This repository contains a complete JavaScript tutorial organized into 30 sectio
 - Common use cases and mistakes
 - Related topics with hyperlinks
 - Quick revision summaries
+
+## Requirements
+- Obsidian software
+
+## How to use
+- Download the repo.
+- open the repo with Obsidian as a new vault.
+- open Master-index.md for structured learning.
 
 ## Structure
 
