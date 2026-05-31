@@ -132,6 +132,13 @@ Javascript_Tutorial/
 - **Professional best practices**
 - **Production-ready** knowledge
 
+## Screenshots
+<img width="1920" height="1140" alt="graph" src="https://github.com/user-attachments/assets/3bf43a4f-44ca-4ed0-8cc0-ca39cd0e234e" />
+<img width="1920" height="1140" alt="fullgraph" src="https://github.com/user-attachments/assets/d34ee57d-229b-4d54-9bb5-3784ad5679a8" />
+<img width="1920" height="1140" alt="index" src="https://github.com/user-attachments/assets/8e0d34cd-8aac-4d76-92d3-e5fc57618398" />
+<img width="1920" height="1140" alt="fileopen" src="https://github.com/user-attachments/assets/f8d69b40-0715-4de8-bc65-2c2ef3341734" />
+
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
