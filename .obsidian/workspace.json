@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "b995a3c983bfc0d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea7a592f27968196",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e902376a91705767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript_Tutorial_Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Javascript_Tutorial_Index"
+            }
+          },
+          {
+            "id": "bc7520fc8cb57cd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Master_index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Master_index"
+            }
+          },
+          {
+            "id": "40a177b2e1d4888c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ceb6cd1dc1671da",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1af212150f0ae44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08e483d337bf30d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fe40f777aec04776",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "defd8ac6f1a6b925",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6255e674052ca25e",
+    "type": "split",
+    "children": [
+      {
+        "id": "35fc8b24e9bd6536",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8396046e4fab76fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Theming.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Theming"
+            }
+          },
+          {
+            "id": "d860f08c4aec5a4c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Theming.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Theming"
+            }
+          },
+          {
+            "id": "83a31c6d942ae6f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0f41c053fc219831",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6b3e346c5cfa4b38",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Theming.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Theming"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "40a177b2e1d4888c",
+  "lastOpenFiles": [
+    "01-Introduction/What-is-JavaScript.md",
+    "README.md",
+    "Master_index.md",
+    "_Reference/What-is-OOP.md",
+    "02-Fundamentals/What-is-Statement.md",
+    "10-Functions/Write-Arrow.md",
+    "10-Functions",
+    "02-Fundamentals/Statement.md",
+    "04-Functions/Function Scope.md",
+    "20-Testing/what-is-Mocha.md",
+    "26-APIs/What-is-WebService.md",
+    "22-Frameworks/What-is-Animation.md",
+    "16-FP/What-is-Observer.md",
+    "13-Async/What-is-XMLHttpRequest.md",
+    "07-Strings/What-is-Substring.md",
+    "07-Strings/What-is-Concatenation.md",
+    "What-is-Statement.md",
+    "what-is-Mocha.md",
+    "Statement.md",
+    "Function Scope.md",
+    "What-is-Animation.md",
+    "What-is-Observer.md",
+    "What-is-XMLHttpRequest.md",
+    "What-is-WebService.md",
+    "What-is-Substring.md",
+    "What-is-Concatenation.md",
+    "04-Functions/Write-Arrow.md",
+    "_Archive",
+    "_Reference",
+    "Async",
+    "23-Node",
+    "16-FP"
+  ]
+}
